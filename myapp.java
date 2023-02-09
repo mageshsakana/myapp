@@ -6,7 +6,7 @@ public class VowelConsonant {
 
         switch (ch){
             case 'l':
-            case 'e':
+            case 's:
             case 'i':
             case 'o':
             case 'u':
