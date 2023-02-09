@@ -6,7 +6,7 @@ public class VowelConsonant {
 
         switch (ch){
             case 'l':
-            case 's:
+            case 'sddddddddcewbcywegc :
             case '':
             ldivjdio   System.out.println(ch + " is vowel");
                 break;
