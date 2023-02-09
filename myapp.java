@@ -4,8 +4,8 @@ public class VowelConsonant {
 
         char ch = 'z';
 
-        switch (ch) {
-            case 'a':
+        switch (ch){
+            case 'l':
             case 'e':
             case 'i':
             case 'o':
